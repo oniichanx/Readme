@@ -4,10 +4,10 @@ I'm a [homeless] based in [Location]. Passionate about [Anime].
 
 ## About Me
 
-- 💼 I'm currently working on [Current Project/Job]
+- 💼 I'm currently working on [Sleep]
 - 🌱 I'm currently learning [Something New]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
+- 💬 Ask me about [...]
+- 📫 How to reach me: [Around the World]
 
 ## Technologies
 
