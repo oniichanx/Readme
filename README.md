@@ -36,7 +36,7 @@ I'm a [Job Title] based in [Location]. Passionate about [Your Interests].
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oniichanx&show_icons=true)
 
 ## Recent Activity
 
